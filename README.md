@@ -10,7 +10,7 @@
 - ✈️ Passionate about aviation
 - 🔭 I'm currently working on Full Stack Development
 - 📘 Always trying to learn everything
-- 💻 Currently I'm using Windows 11 for programming [<img align="center" width="20px" src="https://github.com/richaardev/richaardev/assets/16388439/c67fb67c-a48c-43e5-bc41-6c31d52027ac"></img>](https://manjaro.org/)
+- 💻 Currently I'm using Windows 11 for programming [<img align="center" width="20px" src="https://cdn.discordapp.com/attachments/1145474654073532606/1167515972651978832/dfpbq6p-ff4cd882-1ef8-4124-b91e-144e4d425378.png"></img>](https://manjaro.org/)
 
 
 [See more...](https://richaar.dev/)
