@@ -7,11 +7,10 @@
 
 ### 📖 `𝙰𝚋𝚘𝚞𝚝 𝙼𝚎`
 - 🧠 A developer with bold ideas
-- ✈️ Passionate about aviation
+- 🏎️ Passionate about formula 1
 - 🔭 I'm currently working on Full Stack Development
 - 📘 Always trying to learn everything
-- 💻 Currently I'm using Windows 11 [<img align="center" width="20px" src="https://cdn.discordapp.com/attachments/1145474654073532606/1167515972651978832/dfpbq6p-ff4cd882-1ef8-4124-b91e-144e4d425378.png"></img>](https://manjaro.org/)
+- 💻 i use arch btw <img align="center" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"></img>
 
 
 [See more...](https://richaar.dev/)
-<!-- ### 🌱 `What have I done?` -->
